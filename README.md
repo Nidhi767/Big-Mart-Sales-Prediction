@@ -52,10 +52,10 @@ Here are some key plots from the analysis:
 ![Categorical Feature Counts](categorical_feature_counts.png)
 
 ### Actual vs. Predicted Item MRP 
-![Actual vs Predicted Tuned Model](actual_vs_predicted_tuned.png)
+![Actual vs Predicted Tuned Model](actual_vs_predicted_initial.png)
 
 ### Feature Importance
-![Feature Importance](figures/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 
 ## Future Work
